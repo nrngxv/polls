@@ -2,6 +2,8 @@
 The aim of this program was to learn about how django works and understand how designing a frontend of a application works
 
 ## How it works
+--- THIS PROGRAM RUNS COMPLETELY LOCALLY ---
+
 First check if you are on the latest version of python or not. Run this in your terminal
 ```
 python --version
