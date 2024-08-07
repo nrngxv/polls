@@ -25,11 +25,12 @@ Next, go to this web address ```http://127.0.0.1:8000/``` and you will see the h
 
 **The home page**
 The home page consist of a navigation bar. With links to the home page and a create page. 
-
 The rest of the page, displays a list of already made polls, and each list of poll has two button with it.
 - One is to vote on the Poll
 - One is to view the result
 - Questions displyed on each poll view
+
+![polls home page gif](https://github.com/user-attachments/assets/22fd1ded-0ca6-4b9a-8ce0-c32aebd3fd1e)
 
 
 **Create page**
@@ -37,3 +38,5 @@ This page give you access to creating a custom poll.
 - Enter a poll question
 - Enter the different options to the poll
 - The new poll gets updated on the home page.
+
+![polls create](https://github.com/user-attachments/assets/e1fcfa95-53e7-4b80-8481-8acf97ff8a03)
